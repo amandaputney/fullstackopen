@@ -15,7 +15,6 @@ const App = () => {
       <h1>Greetings</h1>
 
       <h4><Hello name='Amanda'age={26 + 10}/></h4>
-      <h2><Hello name='Goldie' /></h2>
       <Hello name={name} age={age}/>
     </div>
   )
